@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name  -->
+    <string name="app_name">Темы Arrow</string>
+    <!-- Color section -->
+    <string name="bundle1_color_name">Карбон</string>
+    <string name="bundle2_color_name">Бумага</string>
+    <string name="bundle3_color_name">Солнце</string>
+    <string name="default_color_name">Классический</string>
+</resources>
